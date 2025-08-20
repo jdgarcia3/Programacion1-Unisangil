@@ -8,3 +8,4 @@ print(type(peso))
 estado_matricula = bool(input("Digite True si está matriculado o False si no lo está:  "))
 print(type(estado_matricula))
 print(f"Mi nombre es {nombre}, mi cédula es {cedula} y mi peso es {peso} kg y mi estado de matrícula es {estado_matricula}")
+############################################################################################################################
