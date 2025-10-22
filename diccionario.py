@@ -35,3 +35,5 @@ Programacion_1 = {
         }
     ]
 }
+#Imprimir diccionario
+print(Programacion_1)
